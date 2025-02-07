@@ -1,4 +1,5 @@
 import Card from "@/components/dash_components/card";
+
 import BarChart from "@/components/dash_components/charts/BarCharts";
 import {
   barChartDataWeeklyRevenue,
