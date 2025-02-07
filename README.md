@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains the code for a car rental management system, which provides functionality for managing cars, customers, reservations, and more. The system is built using Next.js for the frontend and api router, Prisma for database interactions, and MongoDB as the database. and Zod for input validation and nextAuth for authentication,third party service cloudinary to save images on It also utilizes environment variables for configuration.
+ This repository contains the code for a car rental management system, which provides functionality for managing cars, customers, reservations, and more. The system is built using Next.js for the frontend and api router, Prisma for database interactions, and MongoDB as the database. and Zod for input validation and nextAuth for authentication,third party service cloudinary to save images on It also utilizes environment variables for configuration.
 
 ## Screenshots
 
