@@ -2,6 +2,7 @@ export { default } from "next-auth/middleware";
 import { getToken } from "next-auth/jwt";
 import { NextResponse } from "next/server";
 
+
 export async function middleware(req) {
   const { pathname, origin } = req.nextUrl;
   let session = await getToken({
