@@ -1,4 +1,5 @@
 import React from "react";
+
 import Carcard from "@/components/Carcard";
 
 export default function Cars({ data }) {
